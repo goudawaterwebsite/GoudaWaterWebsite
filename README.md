@@ -1,4 +1,3 @@
-```markdown
 # GoudaWater
 
 Welkom bij **GoudaWater**, een webapplicatie voor het beheren van watergerelateerde apparaten (pompen, kleppen, sensoren, etc.) en het inzichtelijk maken van grondwater- en weersinformatie voor de gemeente Gouda. Deze applicatie bestaat uit een **.NET Core (ASP.NET)**-backend en een **React**-frontend.
@@ -17,6 +16,24 @@ Welkom bij **GoudaWater**, een webapplicatie voor het beheren van watergerelatee
 9. [Aanvullende Informatie](#aanvullende-informatie)  
 
 ---
+
+## Projectstructuur
+```
+GoudaWater
+├── GoudaWater.sln       # Oplossing (solution) file
+├── GoudaWater/          # .NET Core backend project
+│   ├── Controllers/     # API Controllers (C#)
+│   ├── Data/            # EF Core DbContext en migraties
+│   ├── Models/          # Model-klassen (Device, User, etc.)
+│   ├── Services/        # Services (ILogic, WaterDataService, etc.)
+│   ├── Program.cs       # Applicatie-startup
+│   └── ...              # Andere bestanden
+└── ClientApp/           # React-frontend (create-react-app)
+    ├── public/
+    ├── src/
+    ├── package.json
+    └── ...
+```
 
 - **GoudaWater (ASP.NET Core)**: De backend die de MySQL-database aanspreekt, JWT-tokens uitgeeft en de devices bedient.  
 - **ClientApp (React)**: De frontend met verschillende pagina’s voor bewoners (User) en de gemeente (Admin).
@@ -141,9 +158,9 @@ Welkom bij **GoudaWater**, een webapplicatie voor het beheren van watergerelatee
 
 3. **Archiveren en deployen naar Azure**  
    ```bash
-   Compress-Archive -Path .\publish\* -DestinationPath .\publish.zip -Force
+    Compress-Archive -Path .\publish\* -DestinationPath .\publish.zip -Force
    
-az webapp deploy --resource-group goudawater_group --name goudawater --src-path "$PWD\publish.zip" --type zip
+    az webapp deploy --resource-group goudawater_group --name goudawater --src-path "$PWD\publish.zip" --type zip
    ```
 
 4. **Host in Azure of IIS**  
