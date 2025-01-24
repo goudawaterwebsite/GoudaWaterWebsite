@@ -1,0 +1,9 @@
+.legend-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .legend-icon {
+    margin-right: 1rem;
+  }
+  

@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44434",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\steph\\OneDrive\\Documenten\\GitHub\\waterpeil\\Dashboard\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

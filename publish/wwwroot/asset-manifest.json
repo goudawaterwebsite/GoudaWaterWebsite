@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbcc6661.css",
+    "main.js": "/static/js/main.02f3b81a.js",
+    "static/js/496.6456ff39.chunk.js": "/static/js/496.6456ff39.chunk.js",
+    "static/media/watermanagement.png": "/static/media/watermanagement.3dfcf975925f2aaefa2a.png",
+    "static/media/GemeenteLogo.jpg": "/static/media/GemeenteLogo.f077bd3bfb59066bbb9f.jpg",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.cbcc6661.css.map": "/static/css/main.cbcc6661.css.map",
+    "main.02f3b81a.js.map": "/static/js/main.02f3b81a.js.map",
+    "496.6456ff39.chunk.js.map": "/static/js/496.6456ff39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbcc6661.css",
+    "static/js/main.02f3b81a.js"
+  ]
+}

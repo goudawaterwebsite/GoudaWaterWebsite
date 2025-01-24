@@ -1,0 +1,27 @@
+.chart-container {
+    height: 400px;
+    width: 100%;
+  }
+  
+  .large-chart-card {
+    margin-top: 20px;
+    padding: 20px;
+    height: 500px;
+  }
+  
+  form-group {
+    margin-bottom: 20px;
+  }
+  
+  select {
+    height: 38px;
+    border-radius: 4px;
+  }
+  
+  .spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
