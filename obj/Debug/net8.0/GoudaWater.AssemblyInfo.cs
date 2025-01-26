@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoudaWater")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9105fcdd28c907ca5c9870d5f0c06c3bb0db0df9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26ad23d0150cdf911a66d7d73fa85b971f8626be")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoudaWater")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoudaWater")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

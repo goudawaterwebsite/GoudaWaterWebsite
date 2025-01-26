@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steph\\OneDrive\\Documenten\\GitHub\\waterpeil\\Dashboard\\GoudaWater.csproj": {}
+    "C:\\Users\\steph\\OneDrive\\Documenten\\ZenithKingdomPlugin\\GoudaWaterWebsite\\GoudaWater.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steph\\OneDrive\\Documenten\\GitHub\\waterpeil\\Dashboard\\GoudaWater.csproj": {
+    "C:\\Users\\steph\\OneDrive\\Documenten\\ZenithKingdomPlugin\\GoudaWaterWebsite\\GoudaWater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steph\\OneDrive\\Documenten\\GitHub\\waterpeil\\Dashboard\\GoudaWater.csproj",
+        "projectUniqueName": "C:\\Users\\steph\\OneDrive\\Documenten\\ZenithKingdomPlugin\\GoudaWaterWebsite\\GoudaWater.csproj",
         "projectName": "GoudaWater",
-        "projectPath": "C:\\Users\\steph\\OneDrive\\Documenten\\GitHub\\waterpeil\\Dashboard\\GoudaWater.csproj",
+        "projectPath": "C:\\Users\\steph\\OneDrive\\Documenten\\ZenithKingdomPlugin\\GoudaWaterWebsite\\GoudaWater.csproj",
         "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steph\\OneDrive\\Documenten\\GitHub\\waterpeil\\Dashboard\\obj\\",
+        "outputPath": "C:\\Users\\steph\\OneDrive\\Documenten\\ZenithKingdomPlugin\\GoudaWaterWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config"

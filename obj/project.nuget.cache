@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zGMSgoG0uEg=",
+  "dgSpecHash": "wI3Z+ElYJzs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\steph\\OneDrive\\Documenten\\GitHub\\waterpeil\\Dashboard\\GoudaWater.csproj",
+  "projectFilePath": "C:\\Users\\steph\\OneDrive\\Documenten\\ZenithKingdomPlugin\\GoudaWaterWebsite\\GoudaWater.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steph\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\steph\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
